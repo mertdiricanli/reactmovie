@@ -1,0 +1,1 @@
+.Modal{position:fixed; z-index:101; background-color:#ffffff; width:50%; border:1px solid #cccccc; box-shadow:1px 1px 1px #000000; padding:15px; left:25%; top:30%; box-sizing:border-box; transition:all 0.3s ease-out;}
