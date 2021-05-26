@@ -35,6 +35,7 @@ class Movies extends Component {
             const detailContent = this.state.movies[id].overview;
             this.setState({currentDetail: detailContent});
         }
+        
         this.setState({detail: true});
     }
 
